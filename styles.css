@@ -1,0 +1,32 @@
+body {
+    background: #DFC5FE;
+    color:rgb(95, 8, 44);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#hdr {
+
+    min-height: 220px;
+    padding-top: 3em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+}
+  .dest {
+ background-image: #800000;
+  }
+
+  h2,h3,p  {
+    margin: 5mm;
+  
+  }
+
+img {
+  width: 100%;
+   display: inline-block;
+
+}
+.dest {
+    width: 50%;
+    display: inline-block;
+}
